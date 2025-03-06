@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.subtitle {
+    font-style: italic;
+    color: gray;
+}
+
+.about {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 1.1em;
+    color: #070505;
+}
+
+
+
+
+
+.imgbox{
+    display:flex;
+    justify-content: center;
+    gap:50px ;
+}
+
+.imgbox .img img{
+    width: 60%;
+}
